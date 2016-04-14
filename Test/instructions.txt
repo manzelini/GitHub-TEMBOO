@@ -9,3 +9,5 @@ www.temboo.com
 If a "Profile" is used to store Choreo inputs, you will need to save your own credentials and inputs in a profile with the same name. You can learn more about Profiles here: https://temboo.com/hardware/profiles
 
 This example code is in the public domain.
+
+Add some personal text here:
