@@ -5,7 +5,6 @@
 // Instantiate the client proxy
 // You may need to adjust the path to reflect the URI of your server proxy
 var temboo = new TembooProxy('/proxy-server');
-var temboo1 = new TembooProxy('/proxy-server');
 
 // Add the listGistsByUser Choreo
 var listGistsByUserChoreo = temboo.addChoreo('jsListGistsByUser');
